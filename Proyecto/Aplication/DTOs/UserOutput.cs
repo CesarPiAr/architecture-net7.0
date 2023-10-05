@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Proyecto.API.Aplication.DTOs
+﻿namespace Proyecto.API.Aplication.DTOs
 {
     public class UserOutput
     {

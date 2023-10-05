@@ -1,5 +1,4 @@
-﻿using Proyecto.API.Domain.Utils;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Proyecto.API.Aplication.DTOs
 {
